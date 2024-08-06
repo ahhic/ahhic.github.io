@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>连接远程服务器运行深度学习模型</title>
+    <link href="/my-hexo-fluid/2024/08/06/%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%90%E8%A1%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/"/>
+    <url>/my-hexo-fluid/2024/08/06/%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%90%E8%A1%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/</url>
+    
+    <content type="html"><![CDATA[<p>在网上看到的很多教程都是直接在pycharm中改解释器远程连接，但这一类方法需要专业版的pycharm才能实现，现在就介绍一个不需要专业版pycharm，只需要有代码文件即可的方法。（社区版的uu们也不用着急了）</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>深度学习，人工智能</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/my-hexo-fluid/2024/08/05/hello-world/"/>
     <url>/my-hexo-fluid/2024/08/05/hello-world/</url>
